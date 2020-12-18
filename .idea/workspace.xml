@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54d163af-96f4-408b-9833-ac20f852d8c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_29]" />
+  <component name="ProjectId" id="1lkLfRyqJS2GbeiYQJ9mdw4s6Fi" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d163af-96f4-408b-9833-ac20f852d8c6" name="Default Changelist" comment="" />
+      <created>1608136245516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608136245516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2020" y="71" width="1720" height="797" key="AVDManager" timestamp="1608192406976">
+      <screen x="1920" y="-29" width="1920" height="1055" />
+    </state>
+    <state x="2020" y="71" width="1720" height="797" key="AVDManager/1920.-29.1920.1055/0.25.1920.997@1920.-29.1920.1055" timestamp="1608192406976" />
+    <state x="461" y="159" key="SettingsEditor" timestamp="1608136606909">
+      <screen x="0" y="25" width="1920" height="997" />
+    </state>
+    <state x="461" y="159" key="SettingsEditor/1920.-29.1920.1055/0.25.1920.997@0.25.1920.997" timestamp="1608136606909" />
+  </component>
+</project>
